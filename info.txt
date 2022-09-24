@@ -1,0 +1,26 @@
+1) Imagine that a lot of people from the world are working on 1 project, 
+then how do these people share their code and status of the project?
+
+2) Git and Github helps us in doing this by keeping track of all our code.
+
+3) Git is a version control system whereas Github, Bigbucket & Gitlab are some GUI's.
+
+4) Green means a line was added while red means line was removed.
+
+# Commands:
+
+-> git: displays all the keywords along with their use. 
+-> ls: lists all the items in a folder.
+-> mkdir 'folder name': Creates a new folder.
+-> cd 'folder name': changes folder.
+
+// All the history of the changes made in a folder are stored in the 
+   .'git' file. It is hidden.
+
+-> git init: initialises the .git file in the folder
+
+// Now a track record will be kept my git for all changes made inside your folder.
+
+-> touch 'filename.format': 
+ 
+
