@@ -22,5 +22,7 @@ then how do these people share their code and status of the project?
 // Now a track record will be kept my git for all changes made inside your folder.
 
 -> touch 'filename.format': 
+
+->git stash pop : undos the changes made by the git stash command.
  
 
